@@ -1,14 +1,14 @@
 [Positions]
-X Map=1002
+X Map=998
 <<<<<<< HEAD
 Y Map=1000
 =======
 Y Map=1003
 >>>>>>> 06b6d6706592f979efae6ec186077aeaf1bb6f1d
 [Powers]
-Power0=0
-Power1=0
-Power2=0
+Power0=1
+Power1=1
+Power2=1
 Power3=0
 Power4=0
 Power5=0
