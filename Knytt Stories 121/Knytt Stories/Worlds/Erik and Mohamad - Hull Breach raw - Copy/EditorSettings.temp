@@ -1,6 +1,10 @@
 [Positions]
-X Map=1002
-Y Map=1001
+X Map=1000
+<<<<<<< HEAD
+Y Map=1000
+=======
+Y Map=1003
+>>>>>>> 06b6d6706592f979efae6ec186077aeaf1bb6f1d
 [Powers]
 Power0=0
 Power1=0
