@@ -1,0 +1,20 @@
+[Positions]
+X Map=1009
+<<<<<<< HEAD
+Y Map=1001
+=======
+Y Map=1003
+>>>>>>> 06b6d6706592f979efae6ec186077aeaf1bb6f1d
+[Powers]
+Power0=1
+Power1=1
+Power2=1
+Power3=0
+Power4=0
+Power5=0
+Power6=1
+Power7=0
+Power8=0
+Power9=0
+Power10=0
+Power11=0
